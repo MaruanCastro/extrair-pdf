@@ -1,0 +1,9 @@
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\bin\Debug\ExtrairPdfEoutrasMidias.exe.config
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\bin\Debug\ExtrairPdfEoutrasMidias.exe
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\bin\Debug\ExtrairPdfEoutrasMidias.pdb
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.csprojResolveAssemblyReference.cache
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.Form1.resources
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.Properties.Resources.resources
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.csproj.GenerateResource.Cache
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.exe
+c:\users\mr_binary\documents\visual studio 2015\Projects\ExtrairPdfEoutrasMidias\ExtrairPdfEoutrasMidias\obj\Debug\ExtrairPdfEoutrasMidias.pdb
